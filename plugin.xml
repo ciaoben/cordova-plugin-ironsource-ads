@@ -218,8 +218,6 @@
           </config>
           <pods use-frameworks="true">
             <pod name="IronSourceSDK" spec="~> 7.1.6.1" />
-            <pod name="IronSourceFacebookAdapter" spec="~> 4.3.26.2" />
-            <pod name="IronSourceUnityAdsAdapter" spec="~> 4.3.10.1" />
           </pods>
         </podspec>
 
