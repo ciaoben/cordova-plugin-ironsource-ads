@@ -203,7 +203,7 @@
 
     </platform>
 
-    <platform name="ios">
+    <!-- <platform name="ios">
         <config-file target="config.xml" parent="/*">
             <feature name="IronSourceAdsPlugin">
                 <param name="ios-package" value="IronSourceAdsPlugin" />
@@ -235,5 +235,5 @@
         <framework src="CoreLocation.framework" />
         <framework src="CoreTelephony.framework" />
         <framework src="Security.framework" />
-    </platform>
+    </platform> -->
 </plugin>

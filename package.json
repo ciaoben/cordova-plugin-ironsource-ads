@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-ironsource-ads",
   "main": "./www/ironsourceads.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ironsource ads for cordova based development used for Blooza",
   "repository": {
     "type": "git",
